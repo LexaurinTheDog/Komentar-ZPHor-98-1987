@@ -160,6 +160,11 @@ Kvalifikace „sociální dávka" má praktické důsledky: zvláštní přísp�
 
 **Písm. e) — věk 60 let.** Absolutní horní hranice; dosažením 60 let nárok na dávku končí bez ohledu na titul.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [21 Cdo 2989/2005](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F637EBCB3A8025D9C1257A4E006574DE?openDocument) — 9. 2. 2006, kat. A
+  > „Bylo-li ke společnému řízení spojeno více věcí, u kterých se sazba odměny určuje podle § 17 odst. 1 písm. a) vyhlášky č. 484/2000 Sb. ve znění pozdějších předpisů, a rozhodl-li dovolací soud v jedné z těchto věcí o odmítnutí dovolání, projeví se snížení sazby odměny podle ustanovení § 14 odst. 1 uvedené vyhlášky tak, že z celkové odměny se na polovinu krátí část, která odpovídá poměru předmětu řízení ve věci, v níž bylo dovolání odmítnuto, k celkovému součtu předmětů řízení.*)"
+
 #### F. Kazuistika
 
 **1. Modelová situace.** Poživatel zvláštního příspěvku podle § 2 odst. 1 písm. c) (52 let) ukončí po roce zaměstnání mimo hornictví a 10 týdnů nepracuje; prvních 6 týdnů je veden v evidenci uchazečů o zaměstnání, poté se z evidence vyřadí. Současně mu je přiznán invalidní důchod pro invaliditu prvního stupně v částce nižší než zvláštní příspěvek.
@@ -223,6 +228,11 @@ Kvalifikace „sociální dávka" má praktické důsledky: zvláštní přísp�
 **Odst. 3 — zaměstnání mimo podzemí.** Negativní vymezení: jde o každé zaměstnání, které není zaměstnáním I. pracovní kategorie se stálým pracovištěm pod zemí ani ostatním zaměstnáním I. pracovní kategorie pod zemí v hlubinných dolech (poznámky 1 a 2).
 
 **Odst. 4 — hodnocení I. pracovní kategorie.** Odkaz na předpisy o sociálním zabezpečení (poznámka 6: § 8, 14, § 15 odst. 2 až 5 a § 16 zákona č. 100/1988 Sb.; nařízení vlády č. 117/1988 Sb.). Uvedená ustanovení zákona č. 100/1988 Sb. byla zrušena § 109 zákona č. 155/1995 Sb.; při hodnocení dob zaměstnání se proto vychází z předpisů platných v době výkonu zaměstnání, přičemž ZDuP pracuje s I. pracovní kategorií jen pro doby před 1. 1. 1993 (§ 37b odst. 2, § 74). Jak hodnotit případné doby po tomto datu, je výkladovou otázkou.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [21 Cdo 2400/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E34E0DD4913D15B0C1257F8C0030DBE3?openDocument) — 20. 1. 2016, kat. A
+  > „Podmínkou pro převedení zaměstnance na jinou vhodnou práci pro dosažení nejvyšší přípustné expozice [§ 41 odst. 1 písm. b) zák. práce] není, aby neschopnost k výkonu dosavadní práce byla vyslovena lékařským posudkem. Krajské hygienické stanici nepřísluší rozhodovat o tom, jakou práci může zaměstnanec po dosažení nejvyšší přípustné expozice vykonávat"
 
 #### F. Kazuistika
 
