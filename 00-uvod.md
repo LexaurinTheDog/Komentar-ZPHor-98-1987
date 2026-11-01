@@ -2,7 +2,7 @@
 
 > **Znění k 1. lednu 2010** (dokument e-Sbírky `SB-1987-00098_2010-01-01`). Komentář je zpracován **výhradně z lokálních materiálů**; nevyužívá živé komerční právní databáze.
 >
-> **Metodická poznámka:** Místní konsolidace zachycuje stav k 1. 1. 2010 a novější znění v místním vaultu není. Zda byl zákon po tomto datu novelizován (zejména částky v § 5 a vazby na důchodové předpisy), případně zda byly částky zvýšeny nařízením vlády podle § 5 odst. 8, je proto nutné ověřit v aktuálním zdroji. Místní materiály neobsahují k zákonu žádnou ověřenou rozhodovací praxi soudů; komentář proto neuvádí spisové značky a výklad vychází z textu zákona, jeho systematiky, účelu vyjádřeného v § 1 a z vazeb na navazující předpisy, které lze z místních zdrojů doložit. Kde výklad závisí na neověřitelné okolnosti, je to výslovně označeno jako výkladová otázka.
+> **Metodická poznámka:** Místní konsolidace zachycuje stav k 1. 1. 2010 a novější znění v místním vaultu není. Zda byl zákon po tomto datu novelizován (zejména částky v § 5 a vazby na důchodové předpisy), případně zda byly částky zvýšeny nařízením vlády podle § 5 odst. 8, je proto nutné ověřit v aktuálním zdroji. Ve složce `judikatura/` jsou dvě místní judikaturní karty: [NS 21 Cdo 2400/2014](judikatura/NS-21-Cdo-2400-2014.md) u § 4 podporuje výklad § 4 odst. 2, týká se však pracovněprávního převedení podle zákoníku práce, nikoli přímo nároku na zvláštní příspěvek; [NS 21 Cdo 2989/2005](judikatura/NS-21-Cdo-2989-2005.md) u § 3 je strojově chybně přiřazená (týká se odměny advokáta podle vyhlášky č. 484/2000 Sb.) a pro tento zákon nemá výpovědní hodnotu. Ostatní ustanovení místní judikaturu nemají; výklad proto vychází z textu zákona, jeho systematiky, účelu vyjádřeného v § 1 a z vazeb na navazující předpisy, které lze z místních zdrojů doložit. Kde výklad závisí na neověřitelné okolnosti, je to výslovně označeno jako výkladová otázka.
 
 ---
 
@@ -76,7 +76,7 @@ Doprovodné soubory: [ZASADY.md](ZASADY.md) (právní zásady doložené doslovn
 ## Poznámka k metodě
 
 - U každého paragrafu je v citačním bloku uvedeno **úplné doslovné znění** podle místní konsolidace k 1. 1. 2010 (bez elips), pod ním oddíl `**Výklad:**` a dále oddíly F. Kazuistika, G. Protiargumenty a rizika, H. Praktický závěr a kontrolní checklist.
-- Komentář neobsahuje judikaturu ani spisové značky, protože místní materiály k zákonu ověřenou rozhodovací praxi nedokládají; modelové situace v oddílech F jsou ilustrativní.
+- Místní judikatura je omezena na dvě karty vložené v kapitole [01](01-narok-vyse-vyplata.md) a tam vyhodnocené: [judikatura/NS-21-Cdo-2400-2014.md](judikatura/NS-21-Cdo-2400-2014.md) u § 4 (k převedení pro dosažení nejvyšší přípustné expozice podle § 41 odst. 1 písm. b) zákoníku práce není třeba lékařský posudek; jde o pracovněprávní převedení, ne přímo o nárok na příspěvek) a [judikatura/NS-21-Cdo-2989-2005.md](judikatura/NS-21-Cdo-2989-2005.md) u § 3, která je strojově chybně přiřazená a se zákonem věcně nesouvisí. Ostatní ustanovení místní judikaturu nemají; modelové situace v oddílech F jsou ilustrativní.
 - Dobové pojmy se vykládají ve vazbě na dnešní instituty jen tam, kde to lze doložit; jinak je přenos výslovně označen jako výkladová otázka. Čísla unijních předpisů ani pozdější novely, které nelze z místních zdrojů ověřit, se neuvádějí.
 
 ---

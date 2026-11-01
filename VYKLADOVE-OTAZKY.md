@@ -2,7 +2,7 @@
 
 <!-- LOCAL-VYKLADOVE-OTAZKY-GENERATED -->
 
-> Tento dokument je pracovní kontrolní mapa sepisovatele komentáře k zákonu č. 98/1987 Sb., o zvláštním příspěvku horníkům. Vychází výhradně z místních kapitol, místního znění předpisu (konsolidace k 1. 1. 2010) a souborů **ZASADY.md** a **PRAVNI-MODALITY.md**. Místní důvodová zpráva ani místní karty rozhodnutí v repozitáři nejsou. Dokument nepřidává tezi převzatou z internetu ani nedoplňuje chybějící právo odhadem.
+> Tento dokument je pracovní kontrolní mapa sepisovatele komentáře k zákonu č. 98/1987 Sb., o zvláštním příspěvku horníkům. Vychází výhradně z místních kapitol, místního znění předpisu (konsolidace k 1. 1. 2010) a souborů **ZASADY.md** a **PRAVNI-MODALITY.md**. Místní důvodová zpráva v repozitáři není; místní karty rozhodnutí jsou dvě — [judikatura/NS-21-Cdo-2400-2014.md](judikatura/NS-21-Cdo-2400-2014.md) u § 4 a strojově chybně přiřazená [judikatura/NS-21-Cdo-2989-2005.md](judikatura/NS-21-Cdo-2989-2005.md) u § 3. Dokument nepřidává tezi převzatou z internetu ani nedoplňuje chybějící právo odhadem.
 
 ## Jak dokument používat
 
@@ -105,7 +105,7 @@ Typické důkazní prostředky uvádí každý paragraf v bloku „Typicky rozho
 
 **Jak ji řešit.** Pro každý znak normy vytvořte řádek: rozhodná skutečnost, kdo ji tvrdí, dostupný důkaz, kdo důkaz opatřuje, míra přesvědčení a následek neprokázání. Organizace nese riziko chybějící evidence (§ 6 odst. 2, § 13 odst. 2), oprávněný riziko nedoložené žádosti a jejího doručení (§ 14) a osoby podle § 10 odst. 2 riziko neprokázané společné domácnosti. Právní argument nenahrazuje skutkové zjištění — formální výpovědní důvod nepřebíjí obsah záznamů o expozici (§ 2) — a zákonnou domněnku nelze dovodit jen z obtížného dokazování.
 
-**Místní opora.** [§ 2, § 4, § 6](01-narok-vyse-vyplata.md); [§ 10, § 13, § 14](02-zanik-vraceni-spory-zaverecna.md); [Rozhodné skutečnosti, dokazování a riziko nejistoty](HLOUBKOVY-VYKLAD.md); [místní modality](PRAVNI-MODALITY.md); místní judikatura zatím chybí (složka `judikatura/` se doplní strojově)
+**Místní opora.** [§ 2, § 4, § 6](01-narok-vyse-vyplata.md); [§ 10, § 13, § 14](02-zanik-vraceni-spory-zaverecna.md); [Rozhodné skutečnosti, dokazování a riziko nejistoty](HLOUBKOVY-VYKLAD.md); [místní modality](PRAVNI-MODALITY.md); [judikatura/NS-21-Cdo-2400-2014.md](judikatura/NS-21-Cdo-2400-2014.md) (u § 4: k převedení pro dosažení nejvyšší přípustné expozice není třeba lékařský posudek; pracovněprávní převedení, ne přímo nárok na příspěvek)
 
 ## 7. Jaké právní následky, sankce a prostředky ochrany navazují?
 
@@ -146,10 +146,12 @@ Typické střety: sociální účel × právní jistota (omezení zpětné výpl
 ## 9. Co skutečně plyne z místní judikatury a kde jsou její hranice?
 
 **Odpověď pro tento komentář.**
-Místní korpus obsahuje **0** karet rozhodnutí; v systematickém souboru zásad je odkazováno na **0** různých místních karet s použitelnou citací. Úvod to uvádí výslovně: „Místní materiály neobsahují k zákonu žádnou ověřenou rozhodovací praxi soudů; komentář proto neuvádí spisové značky“. Modelové situace nejsou náhradou judikatury — „modelové situace v oddílech F jsou ilustrativní“.
-Místní korpus neposkytuje citovatelnou judikatorní tezi; judikatorní odpověď se proto nesmí domýšlet. **Mezera:** složka `judikatura/` se doplní strojově později.
+Místní korpus obsahuje **2** karty rozhodnutí, obě vložené a vyhodnocené v [kapitole 1](01-narok-vyse-vyplata.md); soubor zásad z nich žádnou zásadu nedovozuje.
+- [judikatura/NS-21-Cdo-2400-2014.md](judikatura/NS-21-Cdo-2400-2014.md) u § 4: „Karta tak podporuje výklad, že u převedení pro dosažení nejvyšší přípustné expozice (odst. 2 písm. a)) je rozhodující skutečnost dosažení expozice a zařazení nové práce do kategorie, kdežto lékařský posudek je klíčový jen u převedení pro ohrožení nemocí z povolání (odst. 2 písm. b)).“ Hranice: „Rozhodnutí se týká pracovněprávního převedení podle zákoníku práce, nikoli přímo nároku na zvláštní příspěvek.“
+- [judikatura/NS-21-Cdo-2989-2005.md](judikatura/NS-21-Cdo-2989-2005.md) u § 3 je strojově chybně přiřazená — „pro výklad § 3 nemá žádnou výpovědní hodnotu“.
+Ostatní ustanovení místní kartu nemají a judikatorní odpověď se k nim nesmí domýšlet. Modelové situace nejsou náhradou judikatury — „modelové situace v oddílech F jsou ilustrativní“.
 
-**Jak ji řešit.** Po doplnění karet u každého rozhodnutí oddělte výrok, nosný důvod, podpůrnou úvahu a skutkové či procesní předpoklady. Ověřte, zda soud vykládal stejné znění (zejména před a po zákonu č. 306/2008 Sb.) a stejný nárokový titul. Právní větu nerozšiřujte na situaci, kterou rozhodnutí neřešilo. Přednostně hledejte rozhodnutí k otázkám uvedeným v otázce 11; do té doby chybějící místní judikaturu označujte jako mezeru.
+**Jak ji řešit.** U každého rozhodnutí oddělte výrok, nosný důvod, podpůrnou úvahu a skutkové či procesní předpoklady. Ověřte, zda soud vykládal stejné znění (zejména před a po zákonu č. 306/2008 Sb.) a stejný nárokový titul. Právní větu nerozšiřujte na situaci, kterou rozhodnutí neřešilo. K otázkám uvedeným v otázce 11 místní karta není; tuto mezeru označujte výslovně.
 
 **Místní opora.** [úvod — metodická poznámka a poznámka k metodě](00-uvod.md); [místní zásady a citace](ZASADY.md); [Judikatura, nosné důvody a hranice použitelnosti](HLOUBKOVY-VYKLAD.md)
 
@@ -181,7 +183,7 @@ Místní kapitoly výslovně zachycují například tyto otázky nebo námitky:
 - [§ 17a](02-zanik-vraceni-spory-zaverecna.md) — příspěvky podle § 2 odst. 1 až 3 při náhradě škody.
 - [Konkurenční výklady, protiargumenty a hraniční případy](HLOUBKOVY-VYKLAD.md) — souhrnná tabulka variant.
 
-**Jak ji řešit.** Formulujte nejsilnější verzi obou výkladů. U každého uveďte textový, systematický, historický a účelový argument, praktický následek a důvod, proč jeden převáží; judikatorní argument zatím chybí. Není-li spor místními prameny řešitelný, zachovejte obě varianty a transparentně označte nejistotu.
+**Jak ji řešit.** Formulujte nejsilnější verzi obou výkladů. U každého uveďte textový, systematický, historický a účelový argument, praktický následek a důvod, proč jeden převáží; k uvedeným sporným otázkám místní karta není. Není-li spor místními prameny řešitelný, zachovejte obě varianty a transparentně označte nejistotu.
 
 **Místní opora.** [kapitola 1 — oddíly G](01-narok-vyse-vyplata.md); [kapitola 2 — oddíly G](02-zanik-vraceni-spory-zaverecna.md); [místní zásady](ZASADY.md); [Konkurenční výklady, protiargumenty a hraniční případy](HLOUBKOVY-VYKLAD.md)
 
@@ -198,9 +200,9 @@ Aplikační vrstvu lze ověřit zejména v: [01-narok-vyse-vyplata](01-narok-vys
 ## 13. Co komentář dosud neví a kdy se musí aktualizovat?
 
 **Odpověď pro tento komentář.**
-Současný místní korpus tvoří **3** kapitoly a **0** karet rozhodnutí, doplněné samostatnou mapou zásad a modalit. Tento údaj vyjadřuje stav místních zdrojů, nikoli úplnost objektivního práva.
+Současný místní korpus tvoří **3** kapitoly a **2** místní karty rozhodnutí (z toho jedna strojově chybně přiřazená), doplněné samostatnou mapou zásad a modalit. Tento údaj vyjadřuje stav místních zdrojů, nikoli úplnost objektivního práva.
 Kontrolní mezery zjištěné podle místní struktury:
-- místní judikatura neposkytuje citovatelnou tezi (složka `judikatura/` se doplní strojově);
+- místní judikatura je omezena na kartu [judikatura/NS-21-Cdo-2400-2014.md](judikatura/NS-21-Cdo-2400-2014.md) u § 4 (pracovněprávní převedení, ne přímo nárok na příspěvek); karta [judikatura/NS-21-Cdo-2989-2005.md](judikatura/NS-21-Cdo-2989-2005.md) u § 3 je strojově chybně přiřazená; ostatní ustanovení místní judikaturu nemají;
 - znění je zachyceno k 1. 1. 2010 — „Zda byl zákon po tomto datu novelizován (například částky v § 5 nebo vazby na důchodové předpisy) či zrušen, je nutné ověřit v aktuálním zdroji.“ ([§ 19](02-zanik-vraceni-spory-zaverecna.md));
 - data účinnosti novel a případná nařízení vlády podle § 5 odst. 8 nejsou ověřena;
 - výklad § 5 odst. 8 a § 19 je třeba sjednotit v otázce nositele valorizačního zmocnění;

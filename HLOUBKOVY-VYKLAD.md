@@ -9,7 +9,7 @@
 Každá z třinácti vrstev odděluje místní zjištění, autorský test a dohledatelnou místní oporu. Tvrzení se při dalším psaní označuje podle své epistemické povahy:
 
 - **Text:** závěr přímo vyplývající z místního znění předpisu (konsolidace k 1. 1. 2010).
-- **Judikatura:** závěr převzatý z místní karty rozhodnutí nebo z místně citované pasáže — v tomto repozitáři zatím žádná taková opora není.
+- **Judikatura:** závěr převzatý z místní karty rozhodnutí nebo z místně citované pasáže — v tomto repozitáři jen karta [judikatura/NS-21-Cdo-2400-2014.md](judikatura/NS-21-Cdo-2400-2014.md) u § 4 (pracovněprávní převedení, ne přímo nárok na příspěvek); karta [judikatura/NS-21-Cdo-2989-2005.md](judikatura/NS-21-Cdo-2989-2005.md) u § 3 je strojově chybně přiřazená a oporu neposkytuje.
 - **Syntéza:** autorské propojení textu, systematiky a místních pramenů.
 - **Otevřená otázka:** místní korpus odpověď nedává nebo připouští více řešení; kapitoly ji samy označují jako „výkladovou otázku“.
 
@@ -271,13 +271,13 @@ Reprezentativní normativní vazby porušení a následku:
 ## 9. Judikatura, nosné důvody a hranice použitelnosti
 
 **Zjištění z místního komentáře.**
-Repozitář zatím neobsahuje složku `judikatura/`; místní korpus má **0 karet rozhodnutí**, soubor zásad odkazuje na **0 místních karet s použitelnou citací** a kapitoly obsahují **0 citací rozhodovací praxe** se spisovou značkou. Kapitoly to samy uvádějí:
-- [00-uvod.md](00-uvod.md): „Místní materiály neobsahují k zákonu žádnou ověřenou rozhodovací praxi soudů; komentář proto neuvádí spisové značky“.
-- [00-uvod.md](00-uvod.md): „Komentář neobsahuje judikaturu ani spisové značky, protože místní materiály k zákonu ověřenou rozhodovací praxi nedokládají; modelové situace v oddílech F jsou ilustrativní.“
+Složka `judikatura/` obsahuje **2 místní karty rozhodnutí**; obě jsou vloženy a vyhodnoceny v kapitole [01-narok-vyse-vyplata.md](01-narok-vyse-vyplata.md), kapitola 02 kartu neobsahuje:
+- [judikatura/NS-21-Cdo-2400-2014.md](judikatura/NS-21-Cdo-2400-2014.md) u § 4: „Karta tak podporuje výklad, že u převedení pro dosažení nejvyšší přípustné expozice (odst. 2 písm. a)) je rozhodující skutečnost dosažení expozice a zařazení nové práce do kategorie, kdežto lékařský posudek je klíčový jen u převedení pro ohrožení nemocí z povolání (odst. 2 písm. b)).“ Hranice: „Rozhodnutí se týká pracovněprávního převedení podle zákoníku práce, nikoli přímo nároku na zvláštní příspěvek.“
+- [judikatura/NS-21-Cdo-2989-2005.md](judikatura/NS-21-Cdo-2989-2005.md) u § 3 je strojově chybně přiřazená: „S podmínkami vyloučení nároku na zvláštní příspěvek podle § 3 ani s jiným ustanovením tohoto zákona věcně nesouvisí; pro výklad § 3 nemá žádnou výpovědní hodnotu.“
 
-Místní korpus tedy neposkytuje kartu ani citaci rozhodnutí; judikatorní závěr se nesmí domýšlet. **Mezera:** složka `judikatura/` se doplní strojově později; do té doby mají všechny závěry povahu textu, syntézy nebo otevřené otázky.
+Ostatní ustanovení místní kartu nemají; judikatorní závěr se k nim nesmí domýšlet a závěry u nich mají povahu textu, syntézy nebo otevřené otázky.
 
-**Syntéza — kde bude judikatura rozhodující.** Při strojovém doplnění karet je třeba přednostně hledat rozhodovací praxi k těmto místně identifikovaným otázkám: příčinná souvislost a skutečný důvod skončení pracovního poměru (§ 2 odst. 1); vztah „doplatku do průměrného výdělku“ k § 139 zákoníku práce (§ 3 písm. b)); povaha § 11 odst. 3 a nutnost námitky; počátek lhůty „zjistila“ (§ 12); důsledky žaloby bez předchozí žádosti (§ 14); vdovec jako „manželka“ (§ 10 odst. 2); příspěvky podle § 2 odst. 1 až 3 při náhradě škody (§ 17a); pobyt v jiném členském státě (§ 8 odst. 3); určení povinné organizace ústředním orgánem (§ 9).
+**Syntéza — otázky bez místní karty.** Místní karta chybí zejména k těmto místně identifikovaným otázkám: příčinná souvislost a skutečný důvod skončení pracovního poměru (§ 2 odst. 1); vztah „doplatku do průměrného výdělku“ k § 139 zákoníku práce (§ 3 písm. b)); povaha § 11 odst. 3 a nutnost námitky; počátek lhůty „zjistila“ (§ 12); důsledky žaloby bez předchozí žádosti (§ 14); vdovec jako „manželka“ (§ 10 odst. 2); příspěvky podle § 2 odst. 1 až 3 při náhradě škody (§ 17a); pobyt v jiném členském státě (§ 8 odst. 3); určení povinné organizace ústředním orgánem (§ 9).
 
 **Hloubkový test.**
 - U každého budoucího rozhodnutí oddělte výrok, nosný důvod, podpůrnou úvahu a skutkové i procesní předpoklady.
@@ -310,7 +310,7 @@ Všech 19 paragrafových jednotek má samostatný oddíl „G. Protiargumenty a 
 
 **Hloubkový test.**
 - Formulujte nejsilnější verzi každého rozumně obhajitelného výkladu, nikoli jeho oslabenou karikaturu.
-- U každé varianty uveďte textový, systematický, historický (dobová terminologie, federální původ) a účelový argument; judikatorní argument zatím chybí.
+- U každé varianty uveďte textový, systematický, historický (dobová terminologie, federální původ) a účelový argument; k sporným otázkám v tabulce výše místní karta není.
 - Porovnejte praktické následky variant (výše a doba dávky, promlčení, rozsah vrácení) a vysvětlete, který argument převáží a za jakých předpokladů.
 - Není-li spor místními prameny řešitelný, zachovejte varianty a označte nejistotu místo předstírání ustáleného závěru.
 
@@ -382,7 +382,7 @@ Variantu vytvořte změnou jediné rozhodné skutečnosti — např. profese ke 
 **Zjištění z místního komentáře.**
 Stav poznání je posuzován nad **3 kapitolami**. Následující matice je redakční diagnostika, nikoli automatické věcné hodnocení správnosti komentáře.
 Předpisové kontrolní mezery zjištěné z místní struktury:
-- místní judikatura chybí (0 karet); složka `judikatura/` se doplní strojově později;
+- místní judikatura je omezena na 2 karty: [judikatura/NS-21-Cdo-2400-2014.md](judikatura/NS-21-Cdo-2400-2014.md) u § 4 se týká pracovněprávního převedení, nikoli přímo nároku na příspěvek, a [judikatura/NS-21-Cdo-2989-2005.md](judikatura/NS-21-Cdo-2989-2005.md) u § 3 je strojově chybně přiřazená; ostatní ustanovení místní judikaturu nemají;
 - znění je zachyceno jen k 1. 1. 2010 — pozdější novely, případné zrušení a nařízení vlády podle § 5 odst. 8 nejsou ověřeny;
 - data účinnosti novel (zejména č. 160/1989 Sb.) nejsou v kapitolách uvedena, ačkoli na nich závisí časová působnost § 2 odst. 4 a § 17a;
 - kapitoly neuvádějí číslo občanského zákoníku, na jehož ustanovení o promlčení odkazují;
@@ -404,13 +404,13 @@ Matice zachycuje pouze přítomnost textového signálu v místní kapitole. Hod
 
 | Kapitola | Proces | Důkazy | Následky | Judikatura | Sporné výklady | Vazby | Aplikace | Stav |
 |---|---|---|---|---|---|---|---|---|
-| [Komentář k zákonu č. 98/1987 Sb., o zvláštním příspěvku horníkům](00-uvod.md) | ano | nenalezeno | ano | jen výslovná absence | ano | ano | nenalezeno | ano |
-| [Kapitola 1 — Nárok na zvláštní příspěvek, vyloučení, výše, uplatnění a výplata (§ 1–8)](01-narok-vyse-vyplata.md) | ano | ano | ano | nenalezeno | ano | ano | ano | ano |
+| [Komentář k zákonu č. 98/1987 Sb., o zvláštním příspěvku horníkům](00-uvod.md) | ano | nenalezeno | ano | odkaz na 2 karty | ano | ano | nenalezeno | ano |
+| [Kapitola 1 — Nárok na zvláštní příspěvek, vyloučení, výše, uplatnění a výplata (§ 1–8)](01-narok-vyse-vyplata.md) | ano | ano | ano | 2 karty (§ 4; § 3 chybně přiřazená) | ano | ano | ano | ano |
 | [Kapitola 2 — Zánik a promlčení nároku, vrácení, povinnosti, spory a závěrečná ustanovení (§ 9–19)](02-zanik-vraceni-spory-zaverecna.md) | ano | ano | ano | nenalezeno | ano | ano | ano | ano |
 
 ### Kontrolní priority podle místní struktury
 
-- **Judikatura:** citovatelná opora nebyla nalezena v žádné ze 3 kapitol; úvod absenci výslovně uvádí.
+- **Judikatura:** jediná věcně relevantní karta je v kapitole 1 u § 4 ([judikatura/NS-21-Cdo-2400-2014.md](judikatura/NS-21-Cdo-2400-2014.md)), a to k pracovněprávnímu převedení; karta u § 3 ([judikatura/NS-21-Cdo-2989-2005.md](judikatura/NS-21-Cdo-2989-2005.md)) je strojově chybně přiřazená; kapitola 2 kartu neobsahuje.
 - **Důkazy a aplikace:** úvodní kapitola je přehledová a modelové situace ani důkazní bloky neobsahuje (u úvodu je to očekávané).
 - **Aktuálnost znění:** všechny kapitoly stojí na konsolidaci k 1. 1. 2010.
 
@@ -445,7 +445,7 @@ Matice zachycuje pouze přítomnost textového signálu v místní kapitole. Hod
 1. Text zákona, závěr soudu, převzatou doktrínu a vlastní syntézu vždy oddělte.
 2. Každé významné tvrzení musí být dohledatelné v místním prameni nebo označené jako otevřená otázka.
 3. Míru jistoty vyjádřete jako ustálený závěr, převažující výklad, spornou otázku nebo autorský návrh.
-4. Judikatorní závěr nepřenášejte mimo rozhodné znění, skutkový základ a procesní situaci; dokud `judikatura/` neexistuje, žádný judikatorní závěr neuvádějte.
+4. Judikatorní závěr nepřenášejte mimo rozhodné znění, skutkový základ a procesní situaci; z karty u § 3 ([judikatura/NS-21-Cdo-2989-2005.md](judikatura/NS-21-Cdo-2989-2005.md)) žádný závěr nevyvozujte a kartu u § 4 ([judikatura/NS-21-Cdo-2400-2014.md](judikatura/NS-21-Cdo-2400-2014.md)) nevydávejte za rozhodnutí o nároku na příspěvek.
 5. Neuvádějte pouze výsledek; zpřístupněte argumentační cestu tak, aby ji bylo možné přezkoumat.
 
 ## Kontrola před publikací
